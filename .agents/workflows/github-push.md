@@ -1,1 +1,0 @@
-﻿---\ndescription: github-push\n---\n\n1. git status\n2. git add .\n3. git commit -m 'Update'\n4. git push origin main
